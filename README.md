@@ -14,12 +14,31 @@ This project aims to enhance video-based learning by creating a system that deli
 
 
 **USER MANUAL**:
-1. Requirements.txt:
-langchain, langchain_openai, langchain_core, python-dotenv, langserve, fastapi, uvicorn, requests, streamlit
-python3 -m pip install requirements.txt
-2.Run the server.py file
-3.Run the client.py file- python3 -m streamlit run client.py
 
+### **Steps to Run the Project**
+
+- **Install Dependencies**  
+  Use `requirements.txt` to install the necessary Python packages:
+
+  ```bash
+  python3 -m pip install -r requirements.txt
+  ```
+
+- **Run the Server**  
+  Start the server by running the `server.py` file:
+
+  ```bash
+  python3 server.py
+  ```
+
+- **Run the Client**  
+  Start the client application using Streamlit:
+
+  ```bash
+  python3 -m streamlit run client.py
+  ```
+
+---
 **OUTPUT**:
 
 1.Context Based Question and Answer:

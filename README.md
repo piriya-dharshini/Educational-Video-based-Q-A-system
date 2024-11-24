@@ -13,8 +13,6 @@ This project aims to enhance video-based learning by creating a system that deli
 
 
 
-**USER MANUAL**:
-
 ### **Steps to Run the Project**
 
 - **Install Dependencies**  
